@@ -1,10 +1,7 @@
 package org.example;
-
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     static void main() {
-        IO.println(String.format("Hello and welcome!,My name is miras im 18"));
+        IO.println(String.format("Hello and welcome!,My name is miras im 18 and student group of IT-2502"));
         }
     }
 
